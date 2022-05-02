@@ -6,9 +6,9 @@
 
 ### step 1
 
-[![Run on Repl.it](https://repl.it/badge/github/BlackVampired/Amdibell)](https://replit.com/@KgAmda/Amdibell-QR?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/WishwaDinushka10/QueenSewWhatsappBot)](https://replit.com/@RavinduManoj/Queen-Sew-QR-Code)
 
 ### step 2
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BlackVampired/Amdibell)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/WishwaDinushka10/QueenSewWhatsappBot)
 
